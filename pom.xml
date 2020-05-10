@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://localhost:8081/nexus/repository/nexus/</url>
+            <url>http://13.59.168.132:8081/repository/Sample2-rel/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://localhost:8081/nexus/repository/samplesnapshot/</url>
+            <url>http://13.59.168.132:8081/repository/Sample1/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
